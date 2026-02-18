@@ -89,3 +89,11 @@ cidr_app_v18_with_converter/
 ## 📄 Version
 
 **v3.1** - Février 2026
+
+<div align="center">
+
+**⭐ If you find this project useful, feel free to give it a star on GitHub ! ⭐**
+
+Made with ❤️ by <a href="https://github.com/LAB-INF0/.githLAB" target="_blank">LAB-INFO</a>
+
+</div>
