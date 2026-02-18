@@ -79,17 +79,17 @@ Ajout d'un nouvel onglet **🔄 Convertisseur** dans la sidebar avec trois fonct
 3. Choisir le mode de conversion souhaité
 
 ### Exemple - Conversion manuelle
-1. Entrer l'IP : `10.58.0.0`
+1. Entrer l'IP : `192.152.0.0`
 2. Entrer le masque : `255.255.0.0`
 3. Cliquer sur **🔄 Convertir**
-4. Résultat : `10.58.0.0/16` avec détails complets
+4. Résultat : `192.152.0.0/16` avec détails complets
 
 ### Exemple - Traitement en lot
 ```
 IP          Masque
-10.0.0.0    255.255.255.0
+12.0.0.0    255.255.255.0
 192.168.1.0 255.255.255.128
-172.16.0.0  255.255.0.0
+112.16.0.0  255.255.0.0
 ```
 → Génère un tableau avec CIDR, réseau, broadcast, hosts pour chaque ligne
 
